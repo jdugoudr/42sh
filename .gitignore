@@ -1,0 +1,118 @@
+##Useless files
+.__42sh_edit__
+tester_dir
+GPATH
+GRTAGS
+GTAGS
+.ycm_extra_conf.py
+.my_supp.supp
+ok
+file
+logs
+log
+sandbox
+/b
+.historic
+tester_dir
+empty
+
+/signal
+/signal.c
+/segfault.c
+
+#random directory:
+/random/.my_supp.supp
+/random/failed_commands*
+/random/buffer
+/random/res1.21sh
+/random/res1.42sh
+/random/res1.bash
+/random/res2.21sh
+/random/res2.42sh
+/random/res2.bash
+/random/tmp_log
+
+#tests_scripts directory :
+tests_scripts/obj
+tests_scripts/*.log
+tests_scripts/logs
+tests_scripts/tmp_log
+tests_scripts/.my_supp.supp
+tests_scripts/buffer
+tests_scripts/b
+tests_scripts/res1.42sh
+tests_scripts/res1.bash
+tests_scripts/res2.42sh
+tests_scripts/res2.bash
+tests_scripts/blt_test_files
+
+tests_scripts/.fd_read
+tests_scripts/.fd_write
+tests_scripts/.signal
+
+sh21
+sh42
+21sh
+42sh
+includes/libft.h
+*.vscode
+
+.history
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Editore files
+*.swp
+*.swo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+.DS_Store
